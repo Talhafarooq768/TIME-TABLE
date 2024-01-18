@@ -1,0 +1,67 @@
+.conatier {
+    padding-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+th{
+    width: 55px;
+}
+.morning{
+    width: 5px;
+}
+.lunch{
+    width: 5px;
+}
+
+.monday{
+    padding-left: 10px;
+}
+.tues{
+    padding-left: 10px;
+}
+.thurs{
+    padding-left: 10px;
+}
+.free-1{
+    padding-left: 20px;
+}
+.office{
+    padding-left: 9px;
+}
+.free{
+    padding-left: 50px;
+}
+.friday{
+    padding-left: 20px;
+}
+.tutu{
+    padding-left:10px;
+}
+span{
+    padding-left: 13px;
+}
+
+.mam{
+    padding-left: 15px;
+
+}
+.Client{
+    padding-left: 10px;
+}
+
+.reserch{
+    padding-left: 20px;
+}
+.reserch-1{
+    padding-left: 70px;
+}
+.office-1{
+    padding-left: 80px;
+}
+.cs{
+    padding-left: 13px;
+}
+.preperation{
+    padding-left: 65px;
+}
